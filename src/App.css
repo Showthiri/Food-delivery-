@@ -1,0 +1,415 @@
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: 520;
+}
+a:hover{
+  color: red;
+}
+.active {
+  font-weight: bold;
+  color: #f00; /* Change this to your preferred color */
+}
+
+.zomimage{
+  position: sticky;
+  top: 0;
+  left: 0;
+
+}
+
+.navbar{
+  /* height: 70px;a */
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.navh2{
+  padding-top: 20px;
+}
+.navh2 h2{
+  color: #f00;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.justify-content-end {
+  justify-content: flex-end;
+}
+.ullimk{
+  margin-left: 20px;
+  padding-left: 260px;
+}
+.nav-bar{
+  display: flex;
+  justify-content: space-around;
+}
+
+.navlink li{
+  font-size: 18px;
+}
+
+@media only screen and (max-width:992px){
+  .ullimk{
+   background-color: white;
+   color: #000;
+    margin-left: -250px;
+    display: flex;
+    flex-direction: column;
+    /* height: 60vh;
+    width: 109.9vh; */
+    
+  }
+}
+  /*Home*/
+
+
+.cart-count{
+  background-color: yellowgreen;
+  border-radius: 50%;
+  border-top-right-radius: 10%;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  padding:3px;
+  font-size: 17px;
+  text-align: center;
+}
+
+.cart-coun{
+
+  border-radius: 120%;
+  color: red;
+  font-weight:900;
+ 
+
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  padding:3px;
+  font-size: 17px;
+  text-align: center;
+}
+.home{
+ /* background-image: url("https://glenfieldmall-prod-images.imgix.net/Stores/Food-Brands/Blazin_Header_1920x792_1D.jpg?ar=&fit=clip&fp-x=0.5&fp-y=0.5&h=650&ixlib=php-2.1.1&w=1320"); */
+ background-image: url("https://wallpaperaccess.com/full/1306125.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: lighten;
+
+  
+}
+
+.main{
+  color: #fff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  font-size: 27px;
+}
+
+.main h2{
+  color:tomato;
+  font-size: 26px;
+  font-weight:bold;
+  font-family:Arial, Helvetica, sans-serif;
+   }
+   #location{
+     font-size: 20px;
+     height: 45px;
+     padding: 3px;
+     
+    }
+    
+    .select{
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      font-size: 23px;
+    }
+    
+    #max{
+      font-size: 20px;
+      height: 45px;
+      padding: 3px; 
+    }
+    .home-btn{
+      margin-top: 20px;
+      color: #fff;border: none;
+      border-radius: 10%;
+      padding: 5px;
+      
+    }
+.sugges{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  
+}
+
+.autocomplete-suggestions ul{
+  /* background-color:white; */
+  font-size: 20px;
+  text-align: center;
+  align-items: center;
+  color:red;
+  font-weight: bold;
+  padding-right: 30px;
+  
+
+  
+}
+.autocomplete-suggestions ul li:hover{
+
+  color:green;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.menu{
+  margin-top: 32px;
+  background-color: #fff;
+}
+@media only screen and (max-width:628px){
+  .select{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+   
+   }
+   #max{
+    height: 50px;
+    padding: 3px;
+  
+  
+  }
+}
+.col{
+  margin-top: 50px;
+}
+.col img{
+  height: 190px;
+  width: 200px;
+  border-radius: 50%;
+}
+.con {
+
+  color: #000;
+  
+}
+.con:hover{
+  cursor: pointer;
+  
+}
+.menu-btn{
+  margin-top: 50px;
+    background-color:red;
+    color: #fff;border: none;
+    border-radius: 10%;
+    padding: 9px;
+    font-size: 30px;
+    letter-spacing: 7px;
+    cursor: pointer;
+}
+
+
+
+/*Offer*/
+
+.offersection{
+    background-image: url("https://th.bing.com/th/id/R.2b9a0f00d84e2148fc1ac851f97cf3b4?rik=VYG03en%2f3iMpjQ&riu=http%3a%2f%2fnextrestaurants.com%2fwp-content%2fuploads%2f2019%2f10%2fRestaurant-Instagram-Photography.png&ehk=7KqmqwAqcuizm9HOzX%2bafy5JZh9G3Odu3fLjvgY0XcE%3d&risl=&pid=ImgRaw&r=0");
+    width: 100%;
+    height: 470px;
+    background-size: cover;
+  }
+  .offer{
+
+    padding-top: 150px;
+    font-size: 25px;
+    font-weight: 550;
+  }
+  .offer span{
+    
+    color: tomato;
+    font-size: 70px;
+    font-weight: bold;
+  }
+  .offer p span{
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  .offerimg img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+  }
+  .homeimg{
+    margin-left: 360px;
+    /* padding-left: 160px; */
+  }
+
+/*Orderfood*/
+.order{
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap:20px;
+  padding-top: 10px;
+
+}
+
+.order button{
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+/* Login.css */
+.container-logi {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin:  20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  background-color: #f9f9f9;
+
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+.in{
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+button {
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
+
+.loginfood {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.loginfood img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/*sinup*/
+
+.container-signup {
+  display: flex;
+  flex-direction: column;
+  place-content: center;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  background-color: #f9f9f9;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+.in {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.bt {
+  width: 100%;
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.bt:hover {
+  background-color: #218838;
+}
+
+p {
+  color: red;
+  margin-top: 10px;
+}
+
+.signupfood {
+  margin-top: 20px;
+}
+
+.signupfood img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+
+/*order*/
+
+.active button {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+@media only screen and (max-width:797px){
+  .home{
+    background-position-x: right;
+  }
+}

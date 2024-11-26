@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dpventcrozvfni0lqb10",
+        "topic":"Margherita Pizza",
+        "amt":"180"
+    },
+    {
+        "id":2,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a58a3816c547ed1bc93f44818dd9e882",
+        "topic":" Fun Combo Veg Pizza",
+      
+        "amt":"340"
+    },
+    {
+        "id":3,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/29/5cb3b925-949c-453c-87d5-8bca4eed13a4_7744e8d6-0862-430a-9886-6ae5caeb9865.jpg",
+        "topic":"Curried Paneer Pizza",
+
+        "amt":"180"
+    },
+    {
+        "id":4,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/l634suq85xqvpuwbtjxf",
+        "topic":"Chicken pizza",
+       
+        "amt":"190"
+    },
+    {
+        "id":5,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/13/38343c85-590c-493e-a2f9-d928f1e518b1_bb950bcc-b72f-46c2-96c2-d4b7538d7aa2.jpeg",
+        "topic":"1+1 Veg Cheesy Pizza ",
+      
+        "amt":"199"
+    },
+    {
+        "id":6,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/22/20257e41-84b2-453c-b31c-ec0f545214ad_6e443fd2-a807-4706-a8f1-0733c976f449.jpg",
+        "topic":"Chicken tikka pizza",
+        "amt":"240"
+    },
+    {
+        "id":7,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/qewdhhmk74xf3oj2t2ci",
+        "topic":"6 Chicken Pizza",
+        "amt":"380"
+    },
+    {
+        "id":8,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ab0a2a4f3a830a1f5195ca57640090bc",
+        "topic":"Cheese Pizza",
+        "amt":"270"
+    }
+
+
+
+
+]

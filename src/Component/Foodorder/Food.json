@@ -1,0 +1,77 @@
+[
+    {
+        "id":1,
+        "img":"https://b.zmtcdn.com/data/dish_photos/cc3/545d4afed274757a9266f988c5334cc3.jpg?output-format=webp",
+        "topic":"Tandoori Roti",
+        "author": "north Indian Periyar, Madurai",
+        "amt":"320"
+    },
+    {
+        "id":2,
+        "img":"https://b.zmtcdn.com/data/pictures/4/18695124/da5ab75cc286205738c6bccfa2fb4ec1_o2_featured_v2.jpg",
+        "topic":"Veg Biryaniz",
+        "author": "north Indian",
+        "amt":"140"
+    },
+    {
+        "id":3,
+        "img":"https://b.zmtcdn.com/data/pictures/3/20835453/a0b0b002e8487292c175fe9493bfb656_o2_featured_v2.jpg",
+        "topic":"Veg Noodles",
+        "author": "north Indian",
+        "amt":"220"
+    },
+    {
+        "id":4,
+        "img":"https://b.zmtcdn.com/data/pictures/4/19589184/2334bd0094d0eb1fb7541d7090935c6c_o2_featured_v2.jpg?output-format=webp",
+        "topic":"Paneer Butter Masala",
+        "author": "north Indian",
+        "amt":"210"
+    },
+    {
+        "id":5,
+        "img":"https://b.zmtcdn.com/data/pictures/8/21146888/69fc969619398046b94a2c757b81add8_o2_featured_v2.jpg",
+        "topic":"Deli FC",
+        "author": "north Indian",
+        "amt":"110"
+    },
+    {
+        "id":6,
+        "img":"https://b.zmtcdn.com/data/pictures/4/20802874/7e168e969cbe6672e867dcf08e460da2_o2_featured_v2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "topic":"Heaven Shack",
+        "author": "North, Madurai",
+        "amt":"80"
+    },
+    {
+        "id":7,
+        "img":"https://b.zmtcdn.com/data/pictures/3/20947203/2e937c6e819a5880b490dc26cacfd85e_o2_featured_v2.jpg",
+        "topic":"Manvar",
+        "author": "Northindia,madurai",
+        "amt":"80"
+    },
+    {
+        "id":8,
+        "img":"https://b.zmtcdn.com/data/pictures/2/21160532/679dbc64c9f80725ef395a672f6ffec3_o2_featured_v2.jpg",
+        "topic":"Parotta",
+        "author": "Periyar, Madurai",
+        "amt":"20"
+    },
+    {
+        "id":9,
+        "img":"",
+        "topic":"Manvar",
+        "author": "Northindia,madurai",
+        "amt":"80"
+    },
+    {
+        "id":10,
+        "img":"",
+        "topic":"Manvar",
+        "author": "Northindia,madurai",
+        "amt":"80"
+    }
+
+
+
+
+
+]

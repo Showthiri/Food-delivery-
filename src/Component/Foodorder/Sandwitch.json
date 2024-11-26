@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b8c1e357fdbce9d839f3d6559aeb9ce0",
+        "topic":"veg sandwitch",
+        "amt":"180"
+    },
+    {
+        "id":2,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/11/068d3da5-df84-43f8-9cff-505b3ab924f6_e38c202f-fe77-4703-a593-e15e0b5a8e68.png_compressed",
+        "topic":"B.M.T Sandwich ",
+      
+        "amt":"340"
+    },
+    {
+        "id":3,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/11/92631126-36da-444c-b68e-247be57ad77a_9ab808dc-39e2-4c25-ab5d-c8807b81c5bc.png_compressed",
+        "topic":"Tuna sandwitch",
+
+        "amt":"180"
+    },
+    {
+        "id":4,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/2/f44dee27-398f-45a0-baeb-4f71f0d54154_d3d0bbf9-3e19-474d-80a3-5659b95f8c1c.JPG",
+        "topic":"Junglee Chicken Sandwich",
+       
+        "amt":"190"
+    },
+    {
+        "id":5,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/icy1vf8v5jf0mlf4up78",
+        "topic":"Corn Cheese Sandwich",      
+        "amt":"199"
+    },
+    {
+        "id":6,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/zap4xirbnkcyux79tsaz",
+        "topic":"Bread Omlete Sandwich",
+        "amt":"240"
+    },
+    {
+        "id":7,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/12/fd2da5ab-20fb-4a2a-b9e0-88db8629ddd3_147a6de3-c344-48b2-a294-4b029e561adc.jpg",
+        "topic":"Schezwan Sandwich",
+        "amt":"380"
+    },
+    {
+        "id":8,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/16/9737ce80-50d1-49ca-a38b-9f9a56736a5f_9ade06a8-9cc8-42f3-8eeb-2f2b52c7f3fa.jpg",
+        "topic":"African Chicken Cheese Sandwich",
+        "amt":"270"
+    }
+
+
+
+
+]

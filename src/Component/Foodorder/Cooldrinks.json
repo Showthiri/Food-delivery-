@@ -1,0 +1,77 @@
+[
+    {
+        "id":1,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/elxrurv8jua62ou0v2ny",
+        "topic":"Apple Juice",
+        "author": " Madurai",
+        "amt":"90"
+    },
+    {
+        "id":2,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/d1a7feb6296ef74fd5be50f67fc8487d",
+        "topic":"Pineapple Juice",
+        "author": "madurai",
+        "amt":"140"
+    },
+    {
+        "id":3,
+        "img":"https://b.zmtcdn.com/data/pictures/3/20835453/a0b0b002e8487292c175fe9493bfb656_o2_featured_v2.jpg",
+        "topic":"Veg Noodles",
+        "author": "madurai",
+        "amt":"220"
+    },
+    {
+        "id":4,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/2/e6e9e781-6718-42f3-86a7-c1ca5264c4ba_2f95d807-e4ce-4a52-a6d4-78a09a53119e.JPG",
+        "topic":"Lemon juice salt",
+        "author": "north Indian",
+        "amt":"210"
+    },
+    {
+        "id":5,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cb3418b6fd71b24df14763463d98ead4",
+        "topic":"Mosambi Juice",
+        "author": "north Indian",
+        "amt":"110"
+    },
+    {
+        "id":6,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/9e62fb2c79a33f0de461751022d5a516",
+        "topic":"Water Melon Juice",
+        "author": "Madurai",
+        "amt":"80"
+    },
+    {
+        "id":7,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/yodcpyklsoosojn21gov",
+        "topic":"Orange Juice",
+        "author": "madurai",
+        "amt":"80"
+    },
+    {
+        "id":8,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/wfe0s6owbjqqcxxiybpz",
+        "topic":"Fruit Mix Juice",
+        "author": "Madurai",
+        "amt":"20"
+    },
+    {
+        "id":9,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/bf038c7944766c4f65f349effcd719d0",
+        "topic":"Pomegranate Juice",
+        "author": "madurai",
+        "amt":"80"
+    },
+    {
+        "id":10,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/u4jgabka4nqm8corg538",
+        "topic":"Mathulai Juice",
+        "author": "madurai",
+        "amt":"80"
+    }
+
+
+
+
+
+]

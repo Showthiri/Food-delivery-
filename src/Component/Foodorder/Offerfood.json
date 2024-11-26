@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/4/b440804a-5295-4f53-a58f-0ae652a9264d_350017.JPG",
+        "topic":"coco cola",
+        "amt":"120"
+    },
+    {
+        "id":2,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/b3739937-c8ca-40ea-96cd-03b049b4600e_619017.JPG",
+        "topic":"Ice Cream",
+        "amt":"140"
+    },
+    {
+        "id":3,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/mfggocra8lwpalawxyrl",
+        "topic":"Sabarees ",
+        "amt":"240"
+    },
+    {
+        "id":4,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/qzfsmoerj0ma5coq3pmp",
+        "topic":"Carnivall",
+        "amt":"220"
+    },
+    {
+        "id":5,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/lazkngldib1aljanob4z",
+        "topic":"coco cola",
+        "amt":"320"
+    },
+    {
+        "id":6,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b0d275c734366e68bd230a7278e4d2e8",
+        "topic":"Riyaz Briyani",
+        "amt":"120"
+    },
+    {
+        "id":7,
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/m9umaeke9jfpcbfiqafz",
+        "topic":"Sekar Konar Mess",
+        "amt":"120"
+    }
+]
